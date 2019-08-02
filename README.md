@@ -124,7 +124,4 @@ I've written these snippets in my free time during my studies. If you find it us
 
 ## Contribute <a name="contribute"></a>
 
-Contribute by creating new issues, sending pull requests on Github or you can send an email at: omar.elgabry.93@gmail.com
-
-## License
-Built under [MIT](http://www.opensource.org/licenses/mit-license.php) license.
+credit to: omar.elgabry.93@gmail.com
